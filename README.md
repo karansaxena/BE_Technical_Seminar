@@ -1,1 +1,1 @@
-BE_Technical_Seminar
+Semantic Documents Relatedness using Concept Graph Representation
